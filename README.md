@@ -1,4 +1,4 @@
-![Header](https://github.com/iGorillaz/iGorillaz/blob/main/assets/dsdsdsadas.png)
+![Header](https://github.com/iGorillaz/iGorillaz/blob/main/assets/Untitled.png)
 
 ##I'm a beginner Software Engineer
 
