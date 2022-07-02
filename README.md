@@ -1,6 +1,6 @@
 ![Header](https://github.com/iGorillaz/iGorillaz/blob/main/assets/dsdsdsadas.png)
 
-About
+##I'm a beginner Software Engineer
 
 Languages and tools
 
