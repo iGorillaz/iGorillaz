@@ -24,12 +24,11 @@ I'm Denis, I specialize in front-end development. I like to being part of cool i
 ![Angular](https://img.shields.io/badge/-angular-101A02?style=for-the-badge&logo=angular&logoColor=FC0221) ![Vue](https://img.shields.io/badge/-Vue-101A02?style=for-the-badge&logo=Vue.JS) ![NgRx](https://img.shields.io/badge/-NgRx-101A02?style=for-the-badge&logo=reactivex&logoColor=990DB6) ![React Native](https://img.shields.io/badge/-ReactNative-101A02?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.JS-101A02?style=for-the-badge&logo=next.js)
 
 
-
-
 <br>
 
 </details>
 
+---
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGorillaz&hide=issues&count_private=true&show_icons=true&theme=merko)](https://github.com/iGorillaz)
