@@ -1,7 +1,7 @@
 ![iGorillaz GitHub Banner](https://github.com/iGorillaz/iGorillaz/blob/main/assets/Untitled.png)
 
-<p style="text-align: center;">
-Hi! I'm Denis, I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.</p>
+Hi :wave: 
+I'm Denis, I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.
 
 ## Contacts
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/d3nis_barannik) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Phone-informational?style=flat&logo=whatsapp&color=Green)](https://api.whatsapp.com/send?phone=79780797955)
