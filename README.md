@@ -1,6 +1,6 @@
 ![iGorillaz GitHub Banner](https://github.com/iGorillaz/iGorillaz/blob/main/assets/Untitled.png)
 
-<center>Hi there!</center>
+<p align="center">Hi there!<p align="center">
 <br>
 <center>I'm Denis, I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.</center>
 
