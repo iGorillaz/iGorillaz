@@ -2,7 +2,7 @@
 
 <p align="center">Hi there!<p align="center">
 <br>
-<center>I'm Denis, I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.</center>
+<p align="center">I'm Denis, I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.<p align="center">
 
 ## Contacts
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-101A02?style=for-the-badge&logo=telegram)](https://t.me/d3nis_barannik) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-101A02?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=79780797955) [![Gmail Badge](https://img.shields.io/badge/-Gmail-101A02?style=for-the-badge&logo=gmail)](mailto:barannik.denis.92@gmail.com)
