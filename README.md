@@ -1,6 +1,7 @@
 ![iGorillaz GitHub Banner](https://github.com/iGorillaz/iGorillaz/blob/main/assets/Untitled.png)
 
-###### Hi :wave: I'm Denis, a beginner developer. I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.
+##### Hi :wave: 
+##### I'm Denis, a beginner developer. I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.
 
 ## Contacts
 
